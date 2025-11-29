@@ -1,0 +1,5 @@
+{
+  "name": "Lung Cancer Detection System",
+  "description": "A client-side AI application for detecting lung nodules in medical imaging using advanced computer vision algorithms.",
+  "requestFramePermissions": []
+}
